@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Single+Day&display=swap');
+.flex-all-centre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.search button{
+    font-family: "Noto Sans", sans-serif;
+}
+.card h2{
+    font-family: "Noto Sans", sans-serif;
+}
+.my-2{
+    margin: 26px 0;
+}
+.text-center{
+    text-align: center;
+    margin: 5px 0;
+}
